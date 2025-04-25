@@ -12,16 +12,16 @@ An AI-powered stock prediction system that forecasts **NSE stock prices** using 
 ## 📖 Table of Contents
 
 - [🚀 Key Features](#-key-features)
-- [🛠️ Installation Guide](#installation-guide)
+- [🛠️ Installation Guide](#-installation-guide)
   - [1️⃣ Prerequisites](#prerequisites)
   - [2️⃣ Installation Steps](#installation-steps)
-- [🖥️ User Manual](#user-manual)
+- [🖥️ User Manual](#-user-manual)
   - [1️⃣ Login Screen](#login-screen)
   - [2️⃣ Dashboard Features](#dashboard-features)
-- [🏗️ System Architecture](#system-architecture)
-- [🛠️ Technical Stack](#technical-stack)
-- [📜 License](#license)
-- [🤝 Author](#author)
+- [🏗️ System Architecture](#-system-architecture)
+- [🛠️ Technical Stack](#-technical-stack)
+- [📜 License](#-license)
+- [🤝 Author](#-author)
 
 
 
