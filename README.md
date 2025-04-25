@@ -160,6 +160,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## ✨ Author
 
-- **[Aaditya Gupta RA2311003011388](https://github.com/1sanemax)**
+- **[Aaditya Gupta RA2311003011388](https://github.com/aadityaguptaaa)**
 - **[Yash Chauhan RA2311003011362](https://github.com/Yashchauhan-07)**
 
