@@ -10,16 +10,16 @@ An AI-powered stock prediction system that forecasts **NSE stock prices** using 
 
 
 
-
 ## 📌 Table of Contents
 
-1. [Key Features](#-key-features)
-2. [Installation Guide](#-installation-guide)
-3. [User Manual](#-User-Manual)
-4. [System Architecture](#-System-Architecture)
-5. [Technical Stack](#-Technical-Stack)
-6. [License](#-License)
-7. [Author](#-Author)
+1. [Key Features](#key-features)
+2. [Installation Guide](#installation-guide)
+3. [User Manual](#user-manual)
+4. [System Architecture](#system-architecture)
+5. [Technical Stack](#technical-stack)
+6. [License](#license)
+7. [Author](#author)
+
 
 
 
