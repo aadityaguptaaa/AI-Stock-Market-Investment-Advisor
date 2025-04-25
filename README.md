@@ -25,6 +25,7 @@ An AI-powered stock prediction system that forecasts **NSE stock prices** using 
 
 
 
+
 ## 🚀 Key Features
 
 - **Real-Time Data**: Fetches **NSE stock data** using the `yfinance` library (TCS.NS, RELIANCE.NS, INFY.NS, etc.).
