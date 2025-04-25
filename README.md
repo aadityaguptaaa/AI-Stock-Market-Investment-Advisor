@@ -66,7 +66,7 @@ An AI-powered stock prediction system that forecasts **NSE stock prices** using 
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/1sanemax/stock-prediction-system.git
+   git clone https://github.com/aadityaguptaaa/AI-Stock-Market-Investment-Advisor.git
    cd stock-prediction-system
    ```
 
