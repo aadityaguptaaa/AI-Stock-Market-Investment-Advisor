@@ -1,9 +1,10 @@
+![image](https://github.com/user-attachments/assets/0d222ce9-b90f-4008-bea6-6dd813381ce1)
 
 # AI-Based Stock Market Investment Advisor 📈🤖
 
-Empowering retail investors with AI-driven insights.
 
----
+
+
 
 ## 📌 Overview
 
@@ -11,7 +12,9 @@ An AI-powered stock prediction system that forecasts **NSE stock prices** using 
 
 > **Note**: This project was developed as part of the **Artificial Intelligence** subject project during the **4th semester** of the **Bachelor of Technology** program at **SRM Institute of Science and Technology**, under the guidance of the course curriculum.
 
----
+
+
+
 
 ## 📌 Table of Contents
 
@@ -23,7 +26,9 @@ An AI-powered stock prediction system that forecasts **NSE stock prices** using 
 6. [License](#license)
 7. [Author](#author)
 
----
+
+
+
 
 ## 🚀 Key Features
 
@@ -36,7 +41,9 @@ An AI-powered stock prediction system that forecasts **NSE stock prices** using 
   - Historical performance tracking.
 - **Secure Authentication**: User management with **MySQL-backed accounts** and **prediction history** tracking.
 
----
+
+
+
 
 ## 🛠️ Installation Guide
 
@@ -87,7 +94,9 @@ An AI-powered stock prediction system that forecasts **NSE stock prices** using 
    python interface.py
    ```
 
----
+
+
+
 
 ## 🖥️ User Manual
 
@@ -111,7 +120,9 @@ An AI-powered stock prediction system that forecasts **NSE stock prices** using 
    - Track all previous forecasts.
    - Filter by **date/stock/profitability**.
 
----
+
+
+
 
 ## 🏗️ System Architecture
 
@@ -129,7 +140,9 @@ An AI-powered stock prediction system that forecasts **NSE stock prices** using 
 ### Data Sources:
 - **yFinance API** (for fetching real-time stock data)
 
----
+
+
+
 
 ## 🛠️ Technical Stack
 
@@ -138,13 +151,17 @@ An AI-powered stock prediction system that forecasts **NSE stock prices** using 
 - **Database**: MySQL 8.0
 - **Data Sources**: yFinance API
 
----
+
+
+
 
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
+
+
+
 
 ## ✨ Author
 
