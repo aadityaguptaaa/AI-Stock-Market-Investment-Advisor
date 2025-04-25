@@ -3,11 +3,6 @@
 # AI-Based Stock Market Investment Advisor 📈🤖
 
 
-
-
-
-## 📌 Overview
-
 An AI-powered stock prediction system that forecasts **NSE stock prices** using **LSTM neural networks**. It features a **Tkinter GUI** for real-time visualizations, portfolio recommendations, and secure user management via **MySQL**.
 
 > **Note**: This project was developed as part of the **Artificial Intelligence** subject project during the **4th semester** of the **Bachelor of Technology** program at **SRM Institute of Science and Technology**, under the guidance of the course curriculum.
@@ -18,13 +13,13 @@ An AI-powered stock prediction system that forecasts **NSE stock prices** using 
 
 ## 📌 Table of Contents
 
-1. [Key Features](#key-features)
-2. [Installation Guide](#installation-guide)
-3. [User Manual](#user-manual)
-4. [System Architecture](#system-architecture)
-5. [Technical Stack](#technical-stack)
-6. [License](#license)
-7. [Author](#author)
+1. [Key Features](#-key-features)
+2. [Installation Guide](#-installation-guide)
+3. [User Manual](#-user-manual)
+4. [System Architecture](#-system-architecture)
+5. [Technical Stack](#-technical-stack)
+6. [License](#-license)
+7. [Author](#-author)
 
 
 
