@@ -5,7 +5,7 @@ from sklearn.preprocessing import MinMaxScaler
 from keras.models import Sequential # type: ignore
 from keras.layers import Dense, LSTM # type: ignore
 from datetime import datetime, timedelta
-
+ 
 # Initialize scaler
 scaler = MinMaxScaler(feature_range=(0, 1))
 
