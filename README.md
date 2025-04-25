@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0d222ce9-b90f-4008-bea6-6dd813381ce1)
+<img src="https://1.bp.blogspot.com/-N-XwxleEyOo/WYQEtqUZGnI/AAAAAAAAwRI/Klh5vIblR_EzyXjHsm1zh5WP3hWZMaciACLcBGAs/s1600/SRM%2BLogo.png" height=70>
 
 # AI-Based Stock Market Investment Advisor 📈🤖
 
