@@ -31,3 +31,4 @@ CREATE TABLE recommendation_predictions (
     timestamp DATETIME DEFAULT CURRENT_TIMESTAMP,
     FOREIGN KEY (user_id) REFERENCES users_data(user_id)
 );
+
