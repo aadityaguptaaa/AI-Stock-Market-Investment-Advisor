@@ -7,8 +7,3 @@ keras==2.13.1
 matplotlib==3.7.2
 pillow==10.0.1
 tensorflow==2.13.0
-  
-  
- 
- 
-
