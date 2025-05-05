@@ -1,7 +1,7 @@
 import mysql.connector
 from mysql.connector import Error
 from datetime import datetime
-
+ 
 def create_connection():
     try:
         connection = mysql.connector.connect(
