@@ -3,7 +3,7 @@ CREATE DATABASE stock_prediction;
 USE stock_prediction;  
   
 CREATE TABLE users_data (    
-    user_id VARCHAR(8) PRIMARY KEY, 
+    user_id VARCHAR(8) PRIMARY KEY,  
     user_name VARCHAR(255) NOT NULL, 
     password VARCHAR(255) NOT NULL,
     city VARCHAR(255),
