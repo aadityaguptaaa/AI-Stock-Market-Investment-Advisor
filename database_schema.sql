@@ -1,5 +1,5 @@
 CREATE DATABASE stock_prediction;
-   
+    
 USE stock_prediction;   
      
 CREATE TABLE users_data (       
