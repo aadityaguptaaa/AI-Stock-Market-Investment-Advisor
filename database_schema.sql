@@ -1,6 +1,6 @@
 CREATE DATABASE stock_prediction;
     
-USE stock_prediction;   
+USE stock_prediction;    
      
 CREATE TABLE users_data (       
     user_id VARCHAR(8) PRIMARY KEY,  
