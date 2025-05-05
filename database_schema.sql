@@ -7,7 +7,7 @@ CREATE TABLE users_data (
     user_name VARCHAR(255) NOT NULL,  
     password VARCHAR(255) NOT NULL,
     city VARCHAR(255),
-    phone_no VARCHAR(20),   
+    phone_no VARCHAR(20),    
     
     address TEXT
 );
