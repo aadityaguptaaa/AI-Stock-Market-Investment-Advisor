@@ -8,7 +8,7 @@ def create_connection():
             host="localhost",       
             user="**",#replace with your username    
             password="**",#replace with your password
-            database="stock_prediction" 
+            database="stock_prediction"  
         )
         return connection
     except Error as e:
