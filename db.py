@@ -7,7 +7,7 @@ def create_connection():
         connection = mysql.connector.connect(  
             host="localhost",          
             user="**",#replace with your username     
-            password="**",#replace with your password 
+            password="**",#replace with your password  
             database="stock_prediction"  
         )
         return connection
