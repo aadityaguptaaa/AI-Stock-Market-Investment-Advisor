@@ -9,7 +9,7 @@ def create_connection():
             user="**",#replace with your username     
             password="**",#replace with your password  
             database="stock_prediction"  
-        )
+        ) 
         return connection
     except Error as e:
         print(f"Error connecting to MySQL: {e}")
