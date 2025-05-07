@@ -4,7 +4,7 @@ from datetime import datetime
  
 def create_connection():
     try:  
-        connection = mysql.connector.connect( 
+        connection = mysql.connector.connect(  
             host="localhost",         
             user="**",#replace with your username    
             password="**",#replace with your password
