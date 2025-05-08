@@ -6,7 +6,7 @@ from keras.models import Sequential # type: ignore
 from keras.layers import Dense, LSTM # type: ignore
 
  
-# Initialize scaler 
+# Initialize scaler  
 scaler = MinMaxScaler(feature_range=(0, 1)) 
   
 # Available stocks (NSE symbols)
