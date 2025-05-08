@@ -10,7 +10,7 @@ import numpy as np
 from PIL import Image, ImageTk
    
 class StockApp:
-    def __init__(self, root):
+    def __init__(self, root): 
         self.root = root
         self.root.title("Stock Prediction System") 
         self.root.geometry("1000x750")  # Increased size for better layout
