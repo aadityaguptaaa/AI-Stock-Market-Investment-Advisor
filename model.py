@@ -7,7 +7,7 @@ from keras.layers import Dense, LSTM # type: ignore
 
   
 # Initialize scaler  
-scaler = MinMaxScaler(feature_range=(0, 1)) 
+scaler = MinMaxScaler(feature_range=(0, 1))  
   
 # Available stocks (NSE symbols)
 STOCKS = ["TCS.NS", "INFY.NS", "RELIANCE.NS", "HDFCBANK.NS", "ICICIBANK.NS"]  
