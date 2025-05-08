@@ -11,7 +11,7 @@ CREATE TABLE users_data (
     
     address TEXT
 );
-
+ 
 CREATE TABLE single_predictions (
     id INT AUTO_INCREMENT PRIMARY KEY,
     user_id VARCHAR(8),
