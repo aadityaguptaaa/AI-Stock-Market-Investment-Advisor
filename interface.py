@@ -6,7 +6,7 @@ import uuid
 from datetime import datetime, timedelta
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg 
-import numpy as np 
+import numpy as np  
 from PIL import Image, ImageTk  
    
 class StockApp: 
