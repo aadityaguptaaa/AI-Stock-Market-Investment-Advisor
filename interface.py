@@ -9,7 +9,7 @@ from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import numpy as np
 from PIL import Image, ImageTk
    
-class StockApp:
+class StockApp: 
     def __init__(self, root): 
         self.root = root
         self.root.title("Stock Prediction System") 
