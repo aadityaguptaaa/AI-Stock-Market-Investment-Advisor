@@ -11,7 +11,7 @@ scaler = MinMaxScaler(feature_range=(0, 1))
   
 # Available stocks (NSE symbols)
 STOCKS = ["TCS.NS", "INFY.NS", "RELIANCE.NS", "HDFCBANK.NS", "ICICIBANK.NS"]  
-
+ 
 def fetch_stock_data(ticker, years=2):
     end_date = datetime.today()
     start_date = end_date - timedelta(days=365*years) 
